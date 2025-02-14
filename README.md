@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IfechukwuAsika
-- 👀 I’m interested in Web development for mow
+- 👀 I’m interested in Web development for now
 - 🌱 I’m currently learning MySQL
 - 💞️ I’m looking to collaborate on projects so i can develop my skil
 - 📫 How to reach me:You can contact me on Tiktok. My iser name is Embooster
